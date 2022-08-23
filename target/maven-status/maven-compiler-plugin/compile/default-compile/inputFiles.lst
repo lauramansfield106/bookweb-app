@@ -1,0 +1,17 @@
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/BookwebHerokuApplication.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/controllers/UserController.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/book/BookConfig.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/user/Role.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/services/UserService.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/SecurityConfiguration.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/AppUserDetails.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/repos/RoleRepository.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/user/AppUser.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/book/repo/BookRepository.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/book/Book.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/controllers/UserDBConfig.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/ServletInitializer.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/controllers/BookDBConfig.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/user/repo/UserRepository.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/controllers/BookController.java
+/Users/lollie/eclipse-workspace/bookweb-app/src/main/java/com/lmansfield/bookwebheroku/services/UserServiceImplementation.java

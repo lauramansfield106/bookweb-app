@@ -1,0 +1,18 @@
+
+
+MVC - model view controller
+
+The controller controls how the user interacts with the app and how the app gets information from the user.
+The controller methods are mapped to specific URL and either send/receive get/post requests. Often get/post methods are paired together.
+In each method, you must include a model variable, as the ModelMap is what stores the parameters that hold information that is entered
+by the user or sent to the app/user. 
+Each method in the controller returns as .jsp which controls how the information looks to the user.
+Parameters from the website can be stored in the .jsp (to be sent to the user) but they must be stored in a model!
+
+Question? Each method in the controller is executed when the user either browses to the mapped url, or clicks on a button that leads to
+the mapped url. 
+
+For each method, you should think to yourself - is the is a get, post, or do I need both? Remember, GET sends info to the app, POST gets info from the app
+
+
+the redirect command direct to a url NOT to a view!
