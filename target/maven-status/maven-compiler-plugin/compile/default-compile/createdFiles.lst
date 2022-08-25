@@ -1,5 +1,4 @@
 com/lmansfield/bookwebheroku/controllers/BookController.class
-com/lmansfield/bookwebheroku/ServletInitializer.class
 com/lmansfield/bookwebheroku/controllers/UserDBConfig.class
 com/lmansfield/bookwebheroku/controllers/BookDBConfig.class
 com/lmansfield/bookwebheroku/book/Book.class
